@@ -282,7 +282,15 @@ p {
 
 .site-nav a.button,
 .site-nav a.button:hover {
-  color: var(--white);
+  color: var(--forest-950);
+  background: var(--sage-100);
+  border-color: var(--sage-300);
+  box-shadow: none;
+}
+
+.site-nav a.button:hover {
+  background: var(--paper);
+  border-color: var(--forest-700);
 }
 
 .site-nav a:not(.button)::after {
