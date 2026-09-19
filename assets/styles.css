@@ -1088,6 +1088,10 @@ p {
   color: #d1dcd6;
 }
 
+.contact-card li {
+  color: #d1dcd6;
+}
+
 .contact-card a:not(.button) {
   color: var(--sage-300);
 }
