@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="18" fill="#16372c"/>
-  <path d="M16 17h13v13H16zM35 17h13v13H35zM16 36h13v13H16zM35 36h13v13H35z" fill="#b8cbbb"/>
-  <path d="M35 17h13v13H35zM16 36h13v13H16z" fill="#b86f42"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Trellis Economics</title>
+  <path fill="#16372C" d="M4 4h13c7.18 0 13 5.82 13 13v13H17C9.82 30 4 24.18 4 17V4Z"/>
+  <path fill="#B86F42" d="M47 4h13v13c0 7.18-5.82 13-13 13H34V17c0-7.18 5.82-13 13-13Z"/>
+  <path fill="#B86F42" d="M4 47c0-7.18 5.82-13 13-13h13v13c0 7.18-5.82 13-13 13H4V47Z"/>
+  <path fill="#16372C" d="M34 34h13c7.18 0 13 5.82 13 13v13H47c-7.18 0-13-5.82-13-13V34Z"/>
 </svg>
-
