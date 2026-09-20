@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 72">
+  <title>Trellis Economics</title>
+  <g transform="translate(0 4)">
+    <path fill="#16372C" d="M4 4h13c7.18 0 13 5.82 13 13v13H17C9.82 30 4 24.18 4 17V4Z"/>
+    <path fill="#B86F42" d="M47 4h13v13c0 7.18-5.82 13-13 13H34V17c0-7.18 5.82-13 13-13Z"/>
+    <path fill="#B86F42" d="M4 47c0-7.18 5.82-13 13-13h13v13c0 7.18-5.82 13-13 13H4V47Z"/>
+    <path fill="#16372C" d="M34 34h13c7.18 0 13 5.82 13 13v13H47c-7.18 0-13-5.82-13-13V34Z"/>
+  </g>
+  <text x="78" y="48" fill="#16372C" font-family="DejaVu Serif, Georgia, serif" font-size="32" font-weight="700" letter-spacing="-1">Trellis Economics</text>
+</svg>
